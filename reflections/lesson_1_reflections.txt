@@ -1,0 +1,2 @@
+Directories are just folders
+It's easier to start a new repository from the Git Desktop 
